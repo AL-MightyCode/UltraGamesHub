@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ultragameshub.onrender.com/sitemap.xml
