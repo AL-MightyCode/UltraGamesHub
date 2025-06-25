@@ -1,7 +1,3 @@
-ChatGPT said:
-Give a description about our whole project to upload on GitHub.
-
-Here’s a professional and complete GitHub project description for your "UltraGames:Hub" website:
 
 🎮 UltraGames:Hub
 UltraGames:Hub is a modern, vibrant, and intuitive gaming hub designed to bring together passionate gamers from across platforms. The platform serves as a central location for discovering, downloading, and staying updated with trending games, game mods, tools, and gaming news — all wrapped in a visually stunning interface.
